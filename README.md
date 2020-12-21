@@ -48,8 +48,8 @@ With regard to FEN notation, the syntax rules are:
 - The pieces are:
     - `a`/`A` — advisor
     - `c`/`C` — cannon
-    - `e`/`E` — elephant
-    - `h`/`H` — horse
+    - `e`/`E`/`b`/`B` — elephant
+    - `h`/`H`/`n`/`N` — horse
     - `k`/`K` — king
     - `p`/`P` — pawn
     - `r`/`R` — rook
@@ -62,4 +62,5 @@ With regard to FEN notation, the syntax rules are:
   *red* (or *white*) is to move or that *black* (or *blue*) is to move,
   respectively.
 
-This is effectively the first two fields described at http://wxf.ca/xq/computer/fen.pdf .
+This is effectively the first two fields described at http://wxf.ca/xq/computer/fen.pdf
+plus the alternative letters used at https://www.chessdb.cn/query_en/ .
