@@ -1,7 +1,7 @@
 # About
 
 This repository intends to demo creation of a book
-featuring razor-sharp XiangQi board setups
+featuring razor-sharp Xiangqi board setups
 based on
 LaTeX,
 [xiangqi-setup](https://github.com/hartwork/xiangqi-setup),
